@@ -5,6 +5,7 @@
 #include<iomanip>
 #include<list>
 using namespace std;
+
 class cnode
 {
 public:
