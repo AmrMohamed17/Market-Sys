@@ -3,6 +3,7 @@
 #include<fstream>
 #include <string>
 #include<iomanip>
+#include<list>
 using namespace std;
 class cnode
 {
