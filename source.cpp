@@ -17,6 +17,7 @@ public:
 	string stock="";
 	string price="";
 };
+
 class clist
 {
 public:
